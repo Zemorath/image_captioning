@@ -1,0 +1,25 @@
+# Image Captioning for Accessibility Tools - Requirements
+# Core ML and Data Science
+tensorflow>=2.15.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Image Processing
+Pillow>=8.0.0
+
+# Natural Language Processing
+nltk>=3.6.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Optional: Text-to-Speech for enhanced accessibility
+# pyttsx3>=2.90  # Uncomment if you want TTS functionality
+
+# Development and Utilities
+jupyter>=1.0.0  # For notebook development
+ipykernel>=6.0.0  # For Jupyter kernel support
